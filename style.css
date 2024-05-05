@@ -1,0 +1,13 @@
+.charset img{
+height: 30px;
+width: 30%;
+}
+
+.charset{
+    border: 1px solid red;
+    width: 29%;
+    height: 110px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
